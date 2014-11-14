@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">Flying Rectangle</string>
+   <string name="frame_per_seconds">
+      FPS: %.1f </string>
+</resources>
